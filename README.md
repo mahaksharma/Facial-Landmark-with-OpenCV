@@ -1,4 +1,4 @@
-# Facial-Landmark-with-OpenCV with Viola Jones alternate solution link
+# Facial-Landmark-with-OpenCV along with Viola Jones alternate solution link
 Solution1:
 The facial Landmark detection using dlib, OpenCV, and Python
 Facial landmarks are used to localize and represent salient regions of the face, such as:
